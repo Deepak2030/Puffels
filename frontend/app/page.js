@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from 'react';
 import { ethers } from 'ethers';
 import './Mint.css'; 
